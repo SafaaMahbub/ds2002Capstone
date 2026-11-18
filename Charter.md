@@ -19,7 +19,7 @@ The project uses Python for data collection and processing, SQLite for data stor
 
 | Team Member | Responsibilities |
 |---|---|
-| Member 1: [Name] | Bart Torvik CSV collection, data cleaning, team name crosswalk, ratings snapshots |
+| Member 1: Safaa Mahbub | Bart Torvik CSV collection, data cleaning, team name crosswalk, ratings snapshots |
 | Member 2: [Name] | ESPN API collection, scoreboard data, game summaries, player box scores, data transformation |
 | Member 3: [Name] | SQLite database design, table creation, SQL queries, data analysis, Charts 1–3 |
 | Member 4: [Name] | FastAPI development, API endpoints, PythonAnywhere deployment, Chart 4 |
